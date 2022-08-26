@@ -58,11 +58,9 @@ Return
 
 ::]myadd::
 (
-FirstName LastName
-1234 Main St
-City, State Zip
-Country
-123-456-7890
+Name: Pavel
+Addess: House: 165/1, Road: 7, South Bishil, Mirpur-1, Dhaka-1216.
+Mobile: 01620 888 555
 )
 
 
