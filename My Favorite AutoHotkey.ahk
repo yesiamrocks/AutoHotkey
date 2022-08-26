@@ -29,22 +29,22 @@ Return
 ;******************************************************************************
 ;			Text replacements for most used keywords
 ;******************************************************************************
-::]ty::Thank you,
+::]as::As-salamu alaykum
 Return
 
-::]tyxx::Thank you,{enter}FirstName LastName
+::]wa::Wa alaykumu s-salam
 Return
 
 ::]yw::You're Welcome
 Return
 
-::]myph::123-456-7890
+::]ty::Thank you,
 Return
 
-::]mycell::098-765-4321
+::]mycell::0160888555
 Return
 
-::]ol::first.last@outlook.com
+::]al::Alhamdulillah
 Return
 
 ::]hm::first.last@hotmail.com
