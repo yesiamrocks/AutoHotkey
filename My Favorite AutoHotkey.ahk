@@ -47,10 +47,10 @@ Return
 ::]al::Alhamdulillah
 Return
 
-::]hm::first.last@hotmail.com
+::]gmo::first.last@hotmail.com
 Return
 
-::]gm::first.last@gmail.com
+::]gm::info.bdpavel@gmail.com
 Return
 
 ::]ym::first.last@yahoo.com
