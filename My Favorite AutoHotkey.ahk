@@ -73,7 +73,7 @@ SetScrollLockState, AlwaysOff
 return
 
 ;******************************************************************************
-;			Always on Top
+;			Always on Top and Reset
 ;******************************************************************************
 ^SPACE:: Winset, Alwaysontop, , A ; ctrl + space
 Return
