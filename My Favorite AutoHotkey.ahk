@@ -53,7 +53,7 @@ Return
 ::]gm::info.bdpavel@gmail.com
 Return
 
-::]ym::first.last@yahoo.com
+::]che::bhai please check this task
 Return
 
 ::]myadd::
@@ -62,6 +62,8 @@ Name: Pavel
 Addess: House: 165/1, Road: 7, South Bishil, Mirpur-1, Dhaka-1216.
 Mobile: 01620 888 555
 )
+
+^Del::FileRecycleEmpty
 
 
 ;******************************************************************************
