@@ -7,7 +7,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;*******************************************************************************;
 ; Title:          My fav AHK scripts                                            ;
 ; Description:    AutoHotkey scripts that make my daily life a bit easier :)    ;
-; Author:         How To Work From Home                                         ;
+; Author:         Pavel                                       ;
 ;*******************************************************************************;
 
 ; Keyboard shortcuts Matrix
