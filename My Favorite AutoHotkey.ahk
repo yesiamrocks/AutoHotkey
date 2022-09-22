@@ -29,7 +29,14 @@ Return
 ;******************************************************************************
 ;			Text replacements for most used keywords
 ;******************************************************************************
-::]as::As-salamu alaykum
+::]as::
+(
+As-salamu alaykum
+Good Day :)
+)
+Return
+
+::]p::Pavel
 Return
 
 ::]wa::Wa alaykumu s-salam
